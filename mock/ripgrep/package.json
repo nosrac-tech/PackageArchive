@@ -1,0 +1,19 @@
+{
+  "name": "ripgrep",
+  "homepage": "https://github.com/BurntSushi/ripgrep",
+  "tags": [
+    "grep",
+    "text-processing",
+    "unix\n"
+  ],
+  "versions": [
+    {
+      "version": "13.0.0",
+      "url": "https://github.com/BurntSushi/ripgrep/archive/refs/tags/13.0.0.zip",
+      "checksum": "5f9d35c2db0513d9d1cbc5254aa9d48fcd74243259b7b15955e131f36f627745",
+      "buildsystem": "rust",
+      "options": [],
+      "dependencies": []
+    }
+  ]
+}
