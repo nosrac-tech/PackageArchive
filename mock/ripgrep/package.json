@@ -3,8 +3,7 @@
   "homepage": "https://github.com/BurntSushi/ripgrep",
   "tags": [
     "grep",
-    "text-processing",
-    "unix\n"
+    "text-processing"
   ],
   "versions": [
     {
